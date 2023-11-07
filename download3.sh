@@ -145,6 +145,7 @@ rm alternatif.sh
 mv MPCN_Modul3 MODUL_3
 rm unzip.log
 rm README.md
+rm -rf __MACOSX download.log download3.sh unzip.log
 
 
 # Membersihkan layar
