@@ -140,9 +140,11 @@ echo "End Time: $end_time" >> download.log
 rm MPCN_Modul3.zip 
 rm download3.sh
 rm download.log
+rm MPCN_Modul3.zip README.md
+rm alternatif.sh
+mv MPCN_Modul3 MODUL_3
 rm unzip.log
 rm README.md
-mv Modul_3 MODUL_3
 
 
 # Membersihkan layar
