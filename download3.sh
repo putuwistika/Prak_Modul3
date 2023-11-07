@@ -144,6 +144,7 @@ rm download3.sh
 rm download.log
 rm unzip.log
 rm README.md
+mv Modul_3 MODUL_3
 
 
 # Membersihkan layar
