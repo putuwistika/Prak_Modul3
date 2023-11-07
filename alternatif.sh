@@ -137,7 +137,7 @@ echo "Start Time: $start_time" >> download.log
 echo "End Time: $end_time" >> download.log
 
 # Hapus file yang tidak diperlukan
-rm rm -rf Prak_Modul3 __MACOSX
+rm MPCN_Modul3.zip README.md
 rm alternatif.sh
 mv MPCN_Modul3 MODUL_3
 
