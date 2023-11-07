@@ -138,9 +138,11 @@ echo "Start Time: $start_time" >> download.log
 echo "End Time: $end_time" >> download.log
 
 # Hapus file yang tidak diperlukan
-rm MPCN_modul3.zip download_modul3.sh
+rm MPCN_Modul3.zip 
+rm download3.sh
 rm download.log
 rm unzip.log
+rm README.md
 
 
 # Membersihkan layar
